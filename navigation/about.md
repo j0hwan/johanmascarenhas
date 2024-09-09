@@ -4,11 +4,37 @@ title: About
 permalink: /about/
 ---
 
-Creator of Student 2025 - i skibidi on the daily
+About Johan Mascarenhas:
 
-# My journey starts here. 
-I, Johan mascarenhas, am a junior attending the school Del Norte...
-As a junior i decided to take AP computer science principals because of my interest in computers and coding. I took a couple courses ralting to html, css, and java whenh I was younger to develop a familiarity with various coing languages.  
+I am a junior that attends Del Norte High school.
+<img id="bullet" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Del_norte_wiki.png/640px-Del_norte_wiki.png" width="200" >
+ 
+I am currentley 16 1/2 years old... My birthday is January 8, 2008.
+Both of my Parents are originally from India. 
+ 
+<img id="bullet" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFPRZ9GyLWF31_CqFDCUO0H193xxHU34thxA&s" width="200" >
+My parents immigrated to California with an H1B.
+<img id="bullet" src="https://images.squarespace-cdn.com/content/v1/603a992bcf34a07d765e1085/0f84a858-8f29-4dbc-b24d-2e7207f72861/visa_h1b_13.jpg" width="200" >
+  ‎   A few years later I was born.
+I was born in San Diego, California in Sharp Mary Birch Hospital. 
+<img id="bullet" src="https://lh3.googleusercontent.com/p/AF1QipM-PeWKHWZTEsjNdUgZ96mb2eOoptPsYrLNnLEU=s1360-w1360-h1020" width="200" >
+‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  
+I was then raised in a city of San Diego called Mira Mesa, where I grew up and attended most of my elementary.‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+<img id="bullet" src="https://ssl.cdn-redfin.com/photo/48/mbphoto/499/genMid.170004499_1_0.jpg" width="200" >
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+When I was in 5th grade, My parents had to move to Del Sur, and I have been here since.
+<img id="bullet" src="https://pi.movoto.com/p/210/220010071_0_z3IQne_p.jpeg" width="200">
+
+Right now I am surrounded by my amazing friends like <a href="https://media.discordapp.net/attachments/1241609466537967616/1282570309018456155/lp_image.jpg?ex=66dfd62e&is=66de84ae&hm=f7b453559b32688ca708852041b4551a1bf0a86dddbc37ad7b6bd22a1d8510b0&=&format=webp&width=259&height=564" target= "_blank">Noah Harris</a>, <a href="https://media.discordapp.net/attachments/1241609466537967616/1282574008537059409/IMG_5915.png?ex=66dfd9a0&is=66de8820&hm=172f77ab4a5fd5e7ae9eebee0607d38f86c1f995eb87ba472a2073549fee54e6&=&format=webp&quality=lossless&width=261&height=564" target= "_blank">Max Gaudinez</a>, and <a href="https://media.discordapp.net/attachments/1241609466537967616/1282573183546953780/IMG_3316.jpg?ex=66dfd8dc&is=66de875c&hm=231c9edbefec7668e8086f80833f7d4de677da538e2474f14541f61e5e9a7b32&=&format=webp&width=423&height=563" target= "_blank">Luke Starr</a>.
+
+
+
+I usually hang out with all of my friends online and in person. We usually play videogames like lethal company, fortnite, or do stuff in person like hang out at target or go to the beach.
+
+
 
 ## A little more about me as a person:
 
