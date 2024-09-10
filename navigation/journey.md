@@ -11,7 +11,7 @@ I started my AP computer science principals journey by picking our groups. Brief
 
 We were also asked to join a communication application, also known as Slack. There I was able to read annoncements and get help from people more experienced than me in computer Science.
 
-For the first project. I decided to learn some markdown and html basics through youtube. I did get soime assistance from platforms like ChatGPT and W3Schools. 
+For the first project. I decided to learn some markdown and html basics through youtube. I did get some assistance from platforms like ChatGPT and W3Schools. 
 
 This led me to create 3 web pages, Journey, Home, and About, And so far, I am prety proud of my work...
 

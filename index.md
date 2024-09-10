@@ -91,7 +91,7 @@ style="background-color: #10d51f !important; font-family: 'sans-serif' !importan
     }
 </script>
 <p style="text-align: left;">
-    <button style="padding:10px 20px; background-colorL#00FFFF; color:aqua !important; border:thin border-radius:50px; font-family:'avalon'!important; "
+    <button style="padding:10px 20px; background-colorL#620e0e; color:aqua !important; border:thin border-radius:50px; font-family:'avalon'!important; "
     button onClick= "funButton()">
         Click for a surprise!
     </button>

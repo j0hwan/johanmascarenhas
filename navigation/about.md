@@ -68,4 +68,4 @@ Thank you for viewing my blog about inspirational fortnite quotes!
 
 I hope you gained some intellelectual knowledge on me ,quotes and fortite. 
 
-
+print(emojize(":thumbs_up: Python is awesome! :grinning_face:")) 
