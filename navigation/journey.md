@@ -16,3 +16,12 @@ For the first project. I decided to learn some markdown and html basics through 
 This led me to create 3 web pages, Journey, Home, and About, And so far, I am prety proud of my work...
 
 I hit many bumps along the way and I was stuck for a lot of thinghs such as making my mario move thorugh my screen, but with some colaberation from my table groups, friends, the teacher, and the internet, I was all good to go.
+
+
+**1st week:** We got introduced in our groups and got a brief introduction to coding. We installed all necessary processes
+
+**2nd week:** We started coding our about pages, index page, and journey. We also started github related activities
+
+**3rd week:** We worked on mario game on the bottom of screen, and implimented buttons.
+
+**4th week:** making a game and putting more work into our websites.
