@@ -83,7 +83,7 @@ style="background-color: #10d51f !important; font-family: 'sans-serif' !importan
 
 </div>
 <div style="border: 2px solid black; padding: 10px; background-color: #ad6da5 !important">
-  <a href="https://www.google.com/imgres?q=kulaniapia%20falls&imgurl=https%3A%2F%2Fdynamic-media-cdn.tripadvisor.com%2Fmedia%2Fphoto-o%2F21%2Fda%2Fce%2F56%2Fgorgeous-views.jpg%3Fw%3D1200%26h%3D-1%26s%3D1&imgrefurl=https%3A%2F%2Fwww.tripadvisor.com%2FAttraction_Review-g60583-d12580179-Reviews-Kulaniapia_Falls-Hilo_Island_of_Hawaii_Hawaii.html&docid=IYOCCV8WR2268M&tbnid=jNVGF0BQTZrGCM&vet=12ahUKEwiNifmevrSIAxXsHkQIHac0N-YQM3oECBkQAA..i&w=1200&h=1200&hcb=2&ved=2ahUKEwiNifmevrSIAxXsHkQIHac0N-YQM3oECBkQAA" style="border: 2px solid black; display: block; padding: 10px; margin: 10px; color: green; font-weight: bold; text-align: center; text-decoration: none;">Big Island, Hawaii</a>
+  <a href="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/21/da/ce/56/gorgeous-views.jpg?w=1200&h=-1&s=1" style="border: 2px solid black; display: block; padding: 10px; margin: 10px; color: green; font-weight: bold; text-align: center; text-decoration: none;">Big Island, Hawaii</a>
   <a href="https://www.google.com/imgres?q=alaska%20glaciers&imgurl=https%3A%2F%2Fwww.hollandamerica.com%2Fblog%2Fwp-content%2Fuploads%2F2023%2F03%2Falaska-glacier-history.webp&imgrefurl=https%3A%2F%2Fwww.hollandamerica.com%2Fblog%2Ftravel-inspiration%2Falaska-glacier-history%2F&docid=IUI2hLNl7jlLmM&tbnid=0LKWQiTX21S4cM&vet=12ahUKEwiFwPP2vbSIAxUCD0QIHYHnF_oQM3oECBYQAA..i&w=1920&h=1080&hcb=2&ved=2ahUKEwiFwPP2vbSIAxUCD0QIHYHnF_oQM3oECBYQAA" style="border: 2px solid black; display: block; padding: 10px; margin: 10px; color: red; font-weight: bold; text-align: center; text-decoration: none;">Alaska</a>
   <script>
     function funButton() {
@@ -163,3 +163,44 @@ style="background-color: #10d51f !important; font-family: 'sans-serif' !importan
   // Use setTimeout to delay the movement of the image
   setTimeout(moveene, 10);
 </script>
+
+Choose one of the mini apps below by clicking the buttons:
+
+<div style="display: flex; justify-content: space-around; margin-top: 30px;">
+  <a href="calculator" style="text-decoration: none;">
+    <button id="calculatorButton" style="font-size: 20px; padding: 15px 30px; background-color: #3498db; border: none; border-radius: 15px; color: white; cursor: pointer;">
+      Calculator
+    </button>
+  </a>
+  
+  <a href="cookieclicker" style="text-decoration: none;">
+    <button id="cookieClickerButton" style="font-size: 20px; padding: 15px 30px; background-color: #e74c3c; border: none; border-radius: 15px; color: white; cursor: pointer;">
+      Cookie Clicker
+    </button>
+  </a>
+
+  <a href="Snake" style="text-decoration: none;">
+    <button id="snakeButton" style="font-size: 20px; padding: 15px 30px; background-color: #2ecc71; border: none; border-radius: 15px; color: white; cursor: pointer;">
+      Snake
+    </button>
+  </a>
+</div>
+
+<style>
+  body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    text-align: center;
+    padding: 50px;
+    color: #333;
+  }
+
+  button:hover {
+    opacity: 0.8;
+  }
+
+  button:focus {
+    outline: none;
+  }
+</style>
+
