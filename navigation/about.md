@@ -74,7 +74,7 @@ print(emoji.emojize(":thumbs_up: Python is awesome! :grinning_face:"))
 print(emojize(":thumbs_up: Python is awesome! :grinning_face:")) 
 
 <script src="https://utteranc.es/client.js"
-        repo="nighthawkcoders/portfolio_2025"
+        repo="j0hwan/johanmascarenhas"
         issue-term="title"
         label="blogpost-comment"
         theme="github-light"

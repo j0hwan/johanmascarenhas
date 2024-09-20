@@ -16,11 +16,3 @@ Hobbies: Gym, Video Games, Swimming, badminton, learning, filmmaking, health
 Languages: English, Spanish 
 
 
-<script src="https://utteranc.es/client.js"
-        repo="johanmascarenhas"
-        issue-term="title"
-        label="blogpost-comment"
-        theme="github-light"
-        crossorigin="anonymous"
-        async>
-</script>

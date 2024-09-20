@@ -26,11 +26,3 @@ I hit many bumps along the way and I was stuck for a lot of thinghs such as maki
 
 **4th week:** making a game and putting more work into our websites.
 
-<script src="https://utteranc.es/client.js"
-        repo="nighthawkcoders/portfolio_2025"
-        issue-term="title"
-        label="blogpost-comment"
-        theme="github-light"
-        crossorigin="anonymous"
-        async>
-</script>
