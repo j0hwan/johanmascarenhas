@@ -68,6 +68,9 @@ Thank you for viewing my blog about inspirational fortnite quotes!
 
 I hope you gained some intellelectual knowledge on me ,quotes and fortite. 
 
+
+import emoji
+print(emoji.emojize(":thumbs_up: Python is awesome! :grinning_face:"))
 print(emojize(":thumbs_up: Python is awesome! :grinning_face:")) 
 
 <script src="https://utteranc.es/client.js"
