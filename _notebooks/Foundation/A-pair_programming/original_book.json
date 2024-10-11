@@ -1,0 +1,14 @@
+{
+    "title": "Python for Beginners",
+    "author": "Jane Smith",
+    "publication_year": 2022,
+    "genres": [
+        "Education",
+        "Programming",
+        "Technology"
+    ],
+    "ratings": {
+        "average_rating": 4.7,
+        "number_of_ratings": 180
+    }
+}
