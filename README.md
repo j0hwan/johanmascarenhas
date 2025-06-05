@@ -1,3 +1,22 @@
+# Johan’s CSP Portfolio
+
+Welcome to my personal corner of the web!  
+This repository gathers **all** of my work for Mr. Mortensen’s *Computer Science Principles* class—blog posts, coding projects, slide decks, and any other links that show how I’m growing as a developer.
+
+---
+
+## ✨ What you’ll find here
+
+| Folder / Page | What’s inside | Why it matters |
+|---------------|--------------|----------------|
+| `_posts/` | Short markdown blogs on weekly topics, tech-talk notes, and reflections | Tracks how my thinking improves over the year |
+| `_notebooks/` | Jupyter Notebooks with Python, JavaScript, or Java demos | Lets you run the code that powers my write-ups |
+| `projects/` | Larger builds (games, APIs, ML experiments) | Shows full-stack skills beyond classroom examples |
+| `images/` | Screenshots and diagrams | Keeps articles lightweight and readable |
+| `README.md` | **You are here** | Explains the repo for first-time visitors |
+
+---
+
 # Introduction
 
 Nighthawk Pages is a project designed to support students in their Computer Science and Software Engineering education. It offers a wide range of resources including tech talks, code examples, and educational blogs.
